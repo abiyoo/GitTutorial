@@ -1,6 +1,5 @@
 the first text file created
 anothertext to anotherabiysidea branch
 from the creator
-
-changing first from GitTutorial folder
-changing first.txt from GitTut...
+changing first from anotherGit.... forlder
+from anotherGit...
