@@ -3,3 +3,4 @@ another text file on README.txt from anotherGitEpg for the second time
 README change from the GitTutortial folder
 expermenting with branching
 check rebase
+text from rebase
